@@ -1,5 +1,3 @@
-import model.BinaryToAscii;
-
 public class App {
     static byte[] inputByte = new byte[] {0b01100001,0b01100001,0b01100001,0b01100001};
     static String inputString = "aaaa";

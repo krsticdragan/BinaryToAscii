@@ -1,6 +1,4 @@
-package model;
 
-import java.nio.charset.Charset;
 
 public class BinaryToAscii {
 	
