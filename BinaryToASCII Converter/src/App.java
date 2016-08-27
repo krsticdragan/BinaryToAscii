@@ -6,7 +6,8 @@ public class App {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		BinaryToAscii bta = new BinaryToAscii();
+		outputByte = bta.stringToBinary(inputString);
 		System.out.println(bta.binaryToString(inputByte));
-		System.out.println(bta.stringToBinary(inputString));
+		System.out.println(outputByte);
 	}
 }
